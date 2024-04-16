@@ -1,0 +1,5 @@
+{"level":"error","message":"400 - Expected ',' or '}' after property value in JSON at position 119 - /auth/login - POST - ::1","timestamp":"2024-01-30T04:44:12.325Z"}
+{"level":"error","message":"400 - Expected ',' or '}' after property value in JSON at position 170 - /api/auth/logout - POST - ::1","timestamp":"2024-02-03T01:04:41.135Z"}
+{"level":"error","message":"400 - Unexpected token 'N', ...\"laTutor\": NULL\n}\" is not valid JSON - /api/crear/alumno - POST - ::1","timestamp":"2024-03-15T20:23:25.897Z"}
+{"level":"error","message":"404 - ENOENT: no such file or directory, stat 'C:\\sites\\UTVT_API\\public\\cuervosbus.html' - /cuervobus - GET - undefined","timestamp":"2024-04-08T05:29:46.204Z"}
+{"level":"error","message":"404 - ENOENT: no such file or directory, stat 'C:\\sites\\UTVT_API\\public\\cuervosbus.html' - /cuervobus - GET - undefined","timestamp":"2024-04-08T05:29:52.092Z"}
